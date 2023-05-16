@@ -1,5 +1,5 @@
 # management_exus
-Description
+
 After cloning the project run
   1. npm install
   2. npm start
